@@ -1,6 +1,6 @@
 # Cover Editor
 
-Offline Canva + Photoshop-style design editor by Dr. JRK's Research: one HTML file, no server.
+Offline Canva + Photoshop-style design editor by Sam Jabathuai: one HTML file, no server.
 
 ## Layout
 - `src/editor.html` – the whole editor (placeholders `__FONTS_LINK__`, `__ASSETS__`, `__DOC__` are filled by the build)
